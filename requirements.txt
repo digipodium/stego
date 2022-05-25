@@ -1,0 +1,10 @@
+click
+Flask
+Flask-Cache
+Flask-Caching
+gunicorn
+itsdangerous
+MarkupSafe
+numpy
+Pillow
+Werkzeug
